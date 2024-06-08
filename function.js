@@ -1,6 +1,6 @@
 const prompt = require('readline-sync')
 
-function adding(num1, num2) {
+let adding = function (num1, num2) {
     num1 = parseFloat(num1)
     num2 = parseFloat(num2)
     sum = num1 + num2;
