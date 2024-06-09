@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Wants to study MERN",
+  "main": "Inheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
 }
